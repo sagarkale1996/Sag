@@ -1,0 +1,16 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="posts.views.index1" />
+          <option value="posts.views.index2" />
+          <option value="PORTAL.EmployeeApp.views.AddEmployee.objects" />
+          <option value="relation.modem.apps.modem" />
+          <option value="requests.get" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
